@@ -36,6 +36,7 @@ set(msg_deps
 # Declare the custom message files
 set(msg_files
   "msg/ExecutePolicyModeGoal.msg"
+  "msg/ExecutePolicyModeActionGoal.msg"
   "msg/ClosestEdges.msg"
   "msg/TopologicalMap.msg"
   "msg/TopologicalNode.msg"
